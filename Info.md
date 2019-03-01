@@ -1,32 +1,34 @@
 Researchers
+
 Many of the most well-known AI researchers have a strong presence on the web. Below I’ve listed around twenty and included links to their website, Wikipedia page, Twitter profile, Google Scholar profile, and Quora profile. Quite a few have done an Ask-Me-Anything on Reddit or a Quora Session so I’ve included that is well when applicable.
 
 I could include dozens more in a list like this. See Quora for more names.
 
-Sebastian Thrun (Wikipedia / Twitter / GScholar / Quora / AMA)
-Yann Lecun (Wikipedia / Twitter / GScholar / Quora / AMA)
-Nando de Freitas (Wikipedia / Twitter / GScholar / AMA)
-Andrew Ng (Wikipedia / Twitter / GScholar / Quora / AMA)
-Daphne Koller (Wikipedia / Twitter / GScholar / Quora / Quora Session)
-Adam Coates (Twitter / GScholar / AMA)
-Jürgen Schmidhuber (Wikipedia / GScholar / AMA)
-Geoffrey Hinton (Wikipedia / GScholar / AMA)
-Terry Sejnowski (Wikipedia / Twitter / GScholar / AMA)
-Michael Jordan (Wikipedia / GScholar / AMA)
-Peter Norvig (Wikipedia / GScholar / Quora / AMA)
-Yoshua Bengio (Wikipedia / GScholar / Quora / AMA)
-Ian Goodfellow (Wikipedia / Twitter / GScholar / Quora / Quora Session)
-Andrej Karpathy (Twitter / GScholar / Quora / Quora Session)
-Richard Socher (Twitter / GScholar / Interview)
-Demis Hassabis (Wikipedia / Twitter / GScholar / Interview)
-Christopher Manning (Twitter / GScholar)
-Fei-Fei Li (Wikipedia / Twitter / GScholar / Ted Talk)
-François Chollet (Twitter / GScholar / Quora / Quora Session)
-Larry Carin (GScholar)
-Dan Jurafsky (Wikipedia / Twitter / GScholar)
-Oren Etzioni (Wikipedia / Twitter / GScholar / Quora / AMA)
+Sebastian Thrun 
+Yann Lecun 
+Nando de Freitas
+Andrew Ng 
+Daphne Koller 
+Adam Coates 
+Jürgen Schmidhuber
+Geoffrey Hinton 
+Terry Sejnowski 
+Michael Jordan 
+Peter Norvig 
+Yoshua Bengio 
+Ian Goodfellow 
+Andrej Karpathy 
+Richard Socher 
+Demis Hassabis 
+Christopher Manning 
+Fei-Fei Li 
+François Chollet
+Larry Carin 
+Dan Jurafsky 
+Oren Etzioni 
 
 Organizations
+
 There are a handful of well-known organizations that are dedicated to furthering AI research and development. Below are the ones with websites/blogs and Twitter accounts.
 
 OpenAI / Twitter (127K followers)
